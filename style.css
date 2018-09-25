@@ -6,6 +6,7 @@ body
 
 h1
 {
+	color: crimson;
 	text-align: center;
 	font-size: 50px;
 	padding-top: 20px;
@@ -14,8 +15,22 @@ h1
 	margin-right: 20%;
 }
 
+h2
+{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+
 p
 {
+	color: white;
+	text-align: center;
 	font-size: 12px;
+}
+
+nav
+{
 	color: black;
+	font-size: 18 px;
 }
