@@ -29,7 +29,13 @@ p
 	font-size: 18px;
 }
 
-nav
+#biolink
+{
+	color: black;
+	font-size: 18px;
+}
+
+#resumelink
 {
 	color: black;
 	font-size: 18px;
