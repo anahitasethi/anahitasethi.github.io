@@ -9,17 +9,19 @@ h1
 	color: #556B2F; /* Dark olive green */ 
 	text-align: center;
 	font-size: 50px;
+	font-weight: bold; 
 	padding-top: 20px;
 	padding-bottom: 20px;
 	margin-left: 20%;
 	margin-right: 20%;
-	border-style: dashed;
+	border-style: dotted;
 }
 
 h2
 {
 	color: black;
 	font-size: 25px;
+	font-style: Italic;
 }
 
 h3
