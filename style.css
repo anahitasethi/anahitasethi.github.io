@@ -1,0 +1,23 @@
+/* */ 
+
+body
+{
+	font-family: Times, Times New Roman, Georgia, serif; 
+	background-color: #FFB6C1; /* Light pink */ 
+}
+
+h1
+{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p
+{
+	font-size: 24px;
+	color: black;
+}
