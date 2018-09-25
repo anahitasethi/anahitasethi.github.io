@@ -14,7 +14,7 @@ h1
 	padding-bottom: 20px;
 	margin-left: 20%;
 	margin-right: 20%;
-	border-style: dotted;
+	border-style: ridge;
 }
 
 h2
@@ -40,22 +40,26 @@ p
 {
 	color: black;
 	font-size: 14px;
+	font-style: Italic;
 }
 
 #resumelink
 {
 	color: black;
 	font-size: 14px;
+	font-style: Italic;
 }
 
 #portfolio
 {
 	color: black;
 	font-size: 14px;
+	font-style: Italic;
 }
 
 #insta
 {
 	color: black;
 	font-size: 14px;
+	font-style: Italic;
 }
